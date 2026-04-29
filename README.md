@@ -99,4 +99,3 @@ README.md
 
 * Nguyễn Quốc An
 * Engineering Physics Student at Can Tho University
-* 
